@@ -1,2 +1,2 @@
 # git-github
-Learning git from youtube - edureka
+This is for tutorial purpose- edureka
